@@ -188,10 +188,12 @@ SOT1092
 </symbols>
 <devicesets>
 <deviceset name="TJA1100">
-<description>Single Twisted Pair Ethernet PHY Chip with both RMII and MII interfaces
+<description>&lt;h1&gt; Single Twisted Pair Ethernet PHY Chip with both RMII and MII interfaces &lt;/h1&gt;
 
 As 100BASE-T1 provides a full-duplex bi-directional communication, the standard MII
-signals COL and CRS are not needed.</description>
+signals COL and CRS are not needed.
+
+Datasheet can be found &lt;a href="https://www.nxp.com/docs/en/data-sheet/TJA1100.pdf"&gt;here&lt;/a&gt;.</description>
 <gates>
 <gate name="G$1" symbol="TJA1100HN" x="10.16" y="-2.54"/>
 </gates>

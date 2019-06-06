@@ -1,0 +1,12 @@
+<h1> OpenSource Automotive TSN Development Platform</h1>
+
+<h2> Requirements </h2>
+<ul>
+  <li>IEEE1588 Compliant Ethernet MAC</li>
+  <li>802.3bw 100Mbps Single Twisted Pair PHY</li>
+  <li>Exposed CAN Interface</li>
+  <li>DCMI or CSI availability</li>
+  <li></li>
+  <li></li>
+  <li><i>FlexRay (optional)</i></li>
+</ul>
